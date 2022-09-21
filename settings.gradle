@@ -14,4 +14,3 @@ dependencyResolutionManagement {
 }
 rootProject.name = "To_Do_App"
 include ':app'
-include ':data'
